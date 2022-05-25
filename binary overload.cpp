@@ -12,7 +12,7 @@ class complex{
 			complex (int a, int b)
 			{
 				real=a;
-				img=b;
+				img=b;//hi
 			}
 			complex operator+= (complex);
 			void display()
